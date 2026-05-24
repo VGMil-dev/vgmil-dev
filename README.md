@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Milton%20Velásquez&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Software%20Architect%20%7C%20Technical%20Lead&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=008080&height=200&section=header&text=Milton%20Velásquez&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Software%20Architect%20%7C%20Technical%20Lead&descAlignY=55&descAlign=50&fontColor=FFD700" />
 </div>
 
 <h3 align="center">Enforcing architectural rigidity to enable operational agility.</h3>
@@ -64,5 +64,7 @@ Welcome to my engineering lab. I specialize in designing scalable distributed sy
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vgmil-dev&show_icons=true&theme=radium&hide_border=true" alt="Milton's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VGMil-dev&show_icons=true&theme=vue-dark&title_color=008080&icon_color=FFD700&hide_border=true" alt="Milton's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VGMil-dev&layout=compact&theme=vue-dark&title_color=008080&icon_color=FFD700&hide_border=true" alt="Top Languages" />
 </div>
