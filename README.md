@@ -31,6 +31,7 @@ Welcome to my engineering lab. I specialize in designing scalable distributed sy
 | :--- | :--- | :--- |
 | 📌 **[FRAGMENTS](https://github.com/vgmil-dev/fragments)** | *Principal Architect* | **BaaS to Custom Backend:** Migrated a gamified platform from Supabase to **NestJS & PostgreSQL** to resolve concurrency bottlenecks. |
 | 📌 **[CHAKANA](https://github.com/vgmil-dev/CHAKANA)** | *Tech Lead* | **Immutable Ecosystem:** Advanced database architecture, multi-environment orchestration, and strict monorepo governance. |
+| 📌 **[CICERO](https://github.com/vgmil-dev/cicero)** | *Tech Lead* | **Client-Side AI:** Audio decoding, voice analysis, and local Whisper inference (WASM/WebGPU) with automated Cloudflare Pages deployment. |
 | 📌 **[Java Clean Blueprint](https://github.com/vgmil-dev/java-clean-layered-blueprint)** | *R&D Mentor* | **Enterprise Scaffolding:** Official standard for Layered Architecture, SOLID principles, and DTO implementations for backend teams. |
 | 📌 **[Android Clean Architecture](https://github.com/vgmil-dev/android-clean-architecture-blueprint)** | *R&D Mentor* | **Mobile Scaffolding:** Definitive guide for scalable MVVM mobile development with strict Dependency Injection (Hilt/Dagger). |
 
